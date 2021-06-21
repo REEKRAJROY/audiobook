@@ -1,15 +1,17 @@
 # audiobook
 Audiobook made on Python using pyttsx3 and PyPDF2.
-
 # Installation
 Fork this repo then open cmd and type:
+<br>
 <br>
 `pip install pyttsx3` which is a text to speech conversion library.
 <br>
 `pip install pypdf2` to read PDF file using Python enter .
 <br>
 `pip install pyaudio` for text to speech conversion.
-<br> Upload the respective pdf you want to read.
+<br>
+<br>
+Upload the respective pdf you want to read.
 
 
 # Reference
