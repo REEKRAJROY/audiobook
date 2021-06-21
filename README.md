@@ -15,7 +15,7 @@ Upload the respective pdf you want to read.
 
 
 # Reference
-I found this [documentation](https://pyttsx3.readthedocs.io/en/latest/) quite helpful for understanding pyttsx3
+I found this [documentation](https://pyttsx3.readthedocs.io/en/latest/) quite helpful for understanding pyttsx3.
 <br>
 A good overview of PyPDF2 is given on [pythonhosted](https://pythonhosted.org/PyPDF2/). Do check this one out.
 <br>
